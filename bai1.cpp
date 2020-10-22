@@ -12,6 +12,7 @@ int PhepTru(int a, int b)
 
 int PhepNhan(int a, int b)
 {
+	return a*b;
 }
 
 int PhepChia(int a, int b)
