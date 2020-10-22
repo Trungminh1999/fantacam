@@ -9,6 +9,7 @@ int PhepCong(int a, int b)
 
 int PhepTru(int a, int b)
 {
+	return a-b;
 }
 
 int PhepNhan(int a, int b)
