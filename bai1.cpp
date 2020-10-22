@@ -18,6 +18,7 @@ int PhepNhan(int a, int b)
 
 int PhepChia(int a, int b)
 {
+	return a/b;
 }
 
 
